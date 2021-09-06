@@ -3,13 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a Msc Computing Science student at University of Glasgow. Before that, I studied Network Engineering at Xidian University. I personally interested in Machine Learning, Deep Learning and Nature Language Processing.
 
-Some information about you!
+### CV
+
+[CV(Click to download)](cv_Jingren.pdf)
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Due to my tight daily schedule, sometimes I may not reply immidately, but all emails would be replied in one week.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jingrenwangcyber@gmail.com](jingrenwangcyber@gmail.com)
