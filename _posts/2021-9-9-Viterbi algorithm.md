@@ -5,7 +5,7 @@ title: A simple illustration of Viterbi algorithm
 
 This blog will illustrate Viterbi algorithm in a more “nature language way” without any complicated equation. Even if you don’t have background in language processing, you could still read till end. 
 
-When we see a **sequence labeling problem** as a classification problem in label space, the label space is exponentially large, for example, if we have a sentence length of 20, tag set size is 10, then we have 10^20 possible tagged sequences, because in each position of this sentence, you will have 10 possible tags. It is impossible for us to choose one by one. So how do we deal with it? We make restrictions as a bigram language model over tags, considers “pairs” once upon a time and decomposes it into local parts and then sum them up. Viterbi algorithm is uses **dynamic programming** to find the best inference result.
+When we see a **sequence labeling problem** as a classification problem in label space, the label space is exponentially large, for example, if we have a sentence length of 20, tag set size is 10, then we have 10^20 possible tagged sequences, because in each position of this sentence, you will have 10 possible tags. It is impossible for us to choose one by one. So how do we deal with it? We make restrictions as a bigram language model over tags, considers “pairs” once upon a time and decomposes it into local parts and then sum them up. Viterbi algorithm uses **dynamic programming** to find the best inference result.
 
 If you want to directly see an example, you could jump to the Example part, but I suggest if you have time, please read and check the reason why it works that way.
 
