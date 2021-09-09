@@ -12,7 +12,7 @@ I am a Msc Computing Science student at University of Glasgow. Before that, I st
 
 ### More Information
 
-Due to my tight daily schedule, sometimes I may not reply immidately, but all emails would be replied in one week.
+Due to my tight daily schedule, sometimes I may not reply immediately, but all emails would be replied in one week.
 
 ### Contact me
 
