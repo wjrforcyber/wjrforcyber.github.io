@@ -26,7 +26,7 @@ Graph 1 shows why it is a dynamic programming problem, generally speaking, we wa
 
 ## 3. Example:
 
-I will use the example *“they can fish”* from Jacob Eisenstein’s Nature Language Processing book to illustrate how to compute it by hand step by step:
+I will use the example *“they can fish”* from [Jacob Eisenstein’s Nature Language Processing book](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf) to illustrate how to compute it by hand step by step:
 
 1). First of all, you should have weights for each emission feature and transition feature, in Table 7.1 are the weights we’ll going to use to calculate the Viterbi variable.
 
@@ -35,12 +35,13 @@ I will use the example *“they can fish”* from Jacob Eisenstein’s Nature La
 </div>
 
 
-2). Step by step calculation and illustration:
-(This structure has a particular name called **“trellis”**. Red one is what we selected)
-
 <div align=center>
 <img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/1.JPG" width="660"/>
 </div>
+
+
+2). Step by step calculation and illustration:
+(This structure has a particular name called **“trellis”**. Red one is what we selected.)
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/2.JPG" width="660"/>
