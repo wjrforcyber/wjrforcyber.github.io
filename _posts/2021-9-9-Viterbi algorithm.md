@@ -19,7 +19,7 @@ Some simple definitions of concepts are required for later representation.
 ## 2. The heart of Viterbi algorithm
 What we want to do is maximum the whole weight of the tagged sentence. And this becomes a dynamic programming problem.
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/Graph1.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/Graph1.JPG)
 
 Graph 1 shows why it is a dynamic programming problem, generally speaking, we want the value of a (the weights sum of the whole sentence) as big as possible, and when we separate out the word M, this becomes a problem of sum of the maximum b and maximum weight of M (has a specific tag), iteratively, this becomes the maximum of the word 1 (has a specific tag). So, in this way we are dealing with an “auxiliary problem” to solve the original problem. And it is easier to solve the problem when you add a Start and End state.
 
@@ -30,21 +30,21 @@ I will use the example *“they can fish”* from Jacob Eisenstein’s Nature La
 
 1). First of all, you should have weights for each emission feature and transition feature, in Table 7.1 are the weights we’ll going to use to calculate the Viterbi variable.
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/VA.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/VA.JPG)
 
 
 2). Step by step calculation and illustration:
 (This structure has a particular name called **“trellis”**. Red one is what we selected)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/1.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/1.JPG)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/2.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/2.JPG)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/3.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/3.JPG)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/4.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/4.JPG)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/5.jpg)
+![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/5.JPG)
 
 The result for the sequence is obvious in this situation, “they can fish” tagged as ”N V N”. However, we should remember sometimes words may have other meanings, for this specific sequence, “fish” can also be a “V” which does make sense.
 
