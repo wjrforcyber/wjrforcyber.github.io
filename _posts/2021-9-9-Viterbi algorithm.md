@@ -30,21 +30,33 @@ I will use the example *“they can fish”* from Jacob Eisenstein’s Nature La
 
 1). First of all, you should have weights for each emission feature and transition feature, in Table 7.1 are the weights we’ll going to use to calculate the Viterbi variable.
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/VA.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/VA.JPG" width="900"/>
+</div>
 
 
 2). Step by step calculation and illustration:
 (This structure has a particular name called **“trellis”**. Red one is what we selected)
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/1.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/1.JPG" width="660"/>
+</div>
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/2.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/2.JPG" width="660"/>
+</div>
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/3.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/3.JPG" width="660"/>
+</div>
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/4.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/4.JPG" width="660"/>
+</div>
 
-![](https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/5.JPG)
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20210909_Viterbi_algorithm/5.JPG" width="660"/>
+</div>
 
 The result for the sequence is obvious in this situation, “they can fish” tagged as ”N V N”. However, we should remember sometimes words may have other meanings, for this specific sequence, “fish” can also be a “V” which does make sense.
 
