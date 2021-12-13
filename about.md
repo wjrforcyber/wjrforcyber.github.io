@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a Msc Computing Science student at University of Glasgow. Before that, I studied Network Engineering at Xidian University. I personally interested in Machine Learning, Deep Learning and Nature Language Processing.
+I am a Msc Computing Science student at University of Glasgow. Before that, I studied Network Engineering at Xidian University. I personally interested in Machine Learning, Deep Learning, Nature Language Processing, and sometimes Haskell. 
+I currently working on my final master project on System T in Haskell.
 
 ### CV
 [CV(Click to download)](cv_Jingren.pdf)
