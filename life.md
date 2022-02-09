@@ -16,7 +16,7 @@ Gyms I have been to in Glasgow:
 ## 🏋️‍♂️Other stuff
 ### 🚴‍♂️Travel
 Cities: 
-<br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Glasgow, UK
+<br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Edinburgh, UK/Glasgow, UK
 ### 🎧Music
 Heathens-Twenty one pilots
 <br />From a movie called Suicide Squad, extremely good, MV is awesome, too.
