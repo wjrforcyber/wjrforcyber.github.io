@@ -6,18 +6,18 @@ permalink: /life/
 
 # My hobbies
 
-## Gym First
+## 💪Gym First
 Gyms I have been to in Glasgow:
 <br />Stevenson Building, University of Glasgow
 <br />Pure Gym Charling X
 
 
 
-## Others
-### Travel
+## 🏋️‍♂️Other stuff
+### 🚴‍♂️Travel
 Cities: 
 <br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Glasgow, UK
-### Music
+### 🎧Music
 Heathens-Twenty one pilots
 <br />From a movie called Suicide Squad, extremely good, MV is awesome, too.
 
@@ -27,6 +27,6 @@ Heathens-Twenty one pilots
 <br />No time to die-Billie Eilish
 <br />I heard this song in the movie No time to die 007, fell in love with it.
 
-### Burgers
+### 🍔Burgers
 Burgers in Glasgow I have tried taste nice:
 ChilosBurger/SMASHBURGER/BRGR/Adam's Diner
