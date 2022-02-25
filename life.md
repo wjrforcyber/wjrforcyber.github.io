@@ -29,4 +29,11 @@ Heathens-Twenty one pilots
 
 ### 🍔Burgers
 Burgers in Glasgow I have tried taste nice:
-ChilosBurger/SMASHBURGER/BRGR/Adam's Diner/Steak,Cattle & Roll Glasgows
+- ChilosBurger	
+- SMASHBURGER	
+- BRGR	
+- Adam's Diner	
+- Steak,Cattle & Roll Glasgows	
+- Bread Meats Bread	
+- El Perro Negro	
+- TriBeCa
