@@ -27,6 +27,9 @@ Heathens-Twenty one pilots
 <br />No time to die-Billie Eilish
 <br />I heard this song in the movie No time to die 007, fell in love with it.
 
+<br />City of Stars-Justin Hurwitz, Benj Pasek and Justin Paul
+<br />Nice song from movie La La Land.
+
 ### 🍔Burgers
 Burgers in Glasgow I have tried taste nice:
 - ChilosBurger	
@@ -37,3 +40,5 @@ Burgers in Glasgow I have tried taste nice:
 - Bread Meats Bread	
 - El Perro Negro	
 - TriBeCa
+- Bucks Bar
+- The Locale
