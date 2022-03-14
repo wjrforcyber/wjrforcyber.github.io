@@ -10,8 +10,8 @@ I have submitted my final master project on implementing System T in Haskell.
 ### 📄CV
 [CV(Click to download)](cv_Jingren.pdf)
 
-### Thesis
-<br />My master project:
+### 📑Thesis
+My master project:
 <br />[Implementing System T in Haskell](ISIH.pdf)
 
 ### 📌More Information
