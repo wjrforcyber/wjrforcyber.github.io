@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Life
+title: 🛀Life
 permalink: /life/
 ---
 
-# My hobbies
+# 👨‍🚀My hobbies
 
 ## 💪Gym First
 Gyms I have been to in Glasgow:
@@ -18,7 +18,8 @@ Gyms I have been to in Glasgow:
 Cities: 
 <br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Edinburgh, UK/Glasgow, UK
 ### 🎧Music
-Heathens-Twenty one pilots
+Some of my favorite songs:<br />
+<br />Heathens-Twenty one pilots
 <br />From a movie called Suicide Squad, extremely good, MV is awesome, too.
 
 <br />Old town road-Lil Nas X
