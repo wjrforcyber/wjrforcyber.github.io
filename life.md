@@ -43,3 +43,4 @@ Burgers in Glasgow I have tried taste nice:
 - TriBeCa
 - Bucks Bar
 - The Locale
+- Hard Rock Cafe Glasgow
