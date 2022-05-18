@@ -9,7 +9,7 @@ permalink: /life/
 ## 💪Gym First
 Gyms I have been to in Glasgow:
 <br />Stevenson Building, University of Glasgow
-<br />Pure Gym Charling X
+<br />Pure Gym Charing X
 
 
 
@@ -17,30 +17,31 @@ Gyms I have been to in Glasgow:
 ### 🚴‍♂️Travel
 Cities: 
 <br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Edinburgh, UK/Glasgow, UK
-### 🎧Music
-Some of my favorite songs:<br />
-<br />Heathens-Twenty one pilots
-<br />From a movie called Suicide Squad, extremely good, MV is awesome, too.
 
-<br />Old town road-Lil Nas X
-<br />An old song? Can't remember when it published, but I like it.
 
-<br />No time to die-Billie Eilish
-<br />I heard this song in the movie No time to die 007, fell in love with it.
-
-<br />City of Stars-Justin Hurwitz, Benj Pasek and Justin Paul
-<br />Nice song from movie La La Land.
-
-### 🍔Burgers
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+	<h3>🍔Burgers</h3>
 Burgers in Glasgow I have tried taste nice:
-- ChilosBurger	
-- SMASHBURGER	
-- BRGR	
-- Adam's Diner	
-- Steak,Cattle & Roll Glasgows	
-- Bread Meats Bread	
-- El Perro Negro	
-- TriBeCa
-- Bucks Bar
-- The Locale
-- Hard Rock Cafe Glasgow
+<br>- ChilosBurger	
+<br>- SMASHBURGER	
+<br>- BRGR	
+<br>- Adam's Diner	
+<br>- Steak,Cattle & Roll Glasgows	
+<br>- Bread Meats Bread	
+<br>- El Perro Negro	
+<br>- TriBeCa
+<br>- Bucks Bar
+<br>- The Locale
+<br>- Hard Rock Cafe Glasgow
+       
+    </div>
+    <div style="display: inline-block;">
+        <h3>📱Social Media</h3>
+        <a class="twitter-timeline" data-width="500" data-height="650" data-theme="dark" href="https://twitter.com/JingrenWang419?ref_src=twsrc%5Etfw">Tweets by JingrenWang419</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</div>
+
+
+
+
