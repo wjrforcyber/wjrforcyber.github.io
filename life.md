@@ -38,7 +38,7 @@ Burgers in Glasgow I have tried taste nice:
     </div>
     <div style="display: inline-block;">
         <h3>📱Social Media</h3>
-        <a class="twitter-timeline" data-width="500" data-height="650" data-theme="dark" href="https://twitter.com/JingrenWang419?ref_src=twsrc%5Etfw">Tweets by JingrenWang419</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" data-width="300" data-height="650" data-theme="dark" href="https://twitter.com/JingrenWang419?ref_src=twsrc%5Etfw">Tweets by JingrenWang419</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </div>
 
