@@ -11,11 +11,13 @@ Gyms I have been to in Glasgow:
 <br />Stevenson Building, University of Glasgow
 <br />Pure Gym Charing X
 
-
+## 🏍️My First Bike
+SUZUKI GSX250R
+<img title="GSX250R" alt="" src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/life/gsx250_1.png">
 
 ## 🏋️‍♂️Other stuff
 ### 🚴‍♂️Travel
-Cities: 
+Cities:
 <br />Xi'an, China/Beijing, China/Shanghai, China/Chongqing, China/Chengdu, China/Qingdao, China/Hainan, China/Edinburgh, UK/Glasgow, UK
 
 
@@ -23,26 +25,21 @@ Cities:
     <div style="display: inline-block;">
 	<h3>🍔Burgers</h3>
 Burgers in Glasgow I have tried taste nice:
-<br>- ChilosBurger	
-<br>- SMASHBURGER	
-<br>- BRGR	
-<br>- Adam's Diner	
-<br>- Steak,Cattle & Roll Glasgows	
-<br>- Bread Meats Bread	
-<br>- El Perro Negro	
+<br>- ChilosBurger
+<br>- SMASHBURGER
+<br>- BRGR
+<br>- Adam's Diner
+<br>- Steak,Cattle & Roll Glasgows
+<br>- Bread Meats Bread
+<br>- El Perro Negro
 <br>- TriBeCa
 <br>- Bucks Bar
 <br>- The Locale
 <br>- Hard Rock Cafe Glasgow
-       
+
     </div>
     <div style="display: inline-block;">
         <h3>📱Social Media</h3>
         <a class="twitter-timeline" data-width="500" data-height="650" data-theme="dark" href="https://twitter.com/JingrenWang419?ref_src=twsrc%5Etfw">Tweets by JingrenWang419</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </div>
-
-
-
-
-
