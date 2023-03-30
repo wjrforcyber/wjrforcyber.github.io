@@ -2,12 +2,14 @@
 layout: post
 title: AIG-ABC的脊梁：从优化布尔表达到对比等价性检查
 ---
-
 【**本文暂时只适合快速阅览，slides待上传】**
-
 > 这篇文章是一篇我在 _Raina Technology_ 的报告演讲稿，所有基于的内容都是开源的。**文章内部本身没有任何引用的图片，需要结合slides的内容进行阅读**。
 > 内容关键词集中在EDA、ABC、AIG、组合逻辑、时序逻辑、等价性验证等。
 > 新手友好，内容没有过多的深入，老少皆宜。
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/wjrforcyber/wjrforcyber.github.io/master/images/20230302_AIGINABC/CoverForPre.JPG" width="660"/>
+</div>
 
 大家好，欢迎来到知识分享系列，本次主要围绕AIG，主要从**问题、概念、ABC中的AIG处理和ABC中的等价性检查**四个方面给大家讲解。
 这样安排的主要原因是，当我们把一个知识领域封装成一个完整的问题的时候，我们面对的就是任务驱动型学习方式，通过任务驱动的方式，我们能够更加精确地找准要对接的方向，缩小学习压力以提升学习效率，这也是如何在短时间内准备一个局部领域知识的方法。
