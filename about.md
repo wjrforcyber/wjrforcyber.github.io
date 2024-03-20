@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 I got the Master degree from University of Glasgow. Before that, I studied Network Engineering at Xidian University. I personally interested in Machine Learning, Deep Learning, Nature Language Processing, and sometimes programming language.
-<br />I am currently working as a Cloud Engineer at Raina Technology.
+<br />I am currently working on Logic Synthesis at Raina Technology.
 ```
   ______________________________________
 | Just let you know that I like burgers. |
