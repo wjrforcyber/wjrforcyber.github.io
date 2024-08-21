@@ -21,7 +21,7 @@ repository               : "wjrforcyber/wjrforcyber.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile.png"
   name             : "Jingren Wang"
   pronouns         : "He/Him"  
   bio              : "Logic Synthesis Engineer"
