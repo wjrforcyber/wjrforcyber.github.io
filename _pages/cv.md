@@ -9,30 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+This page is till under maintenance, detailed version of CV could be viewed [here](../files/wjr_cv.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+* M.S. in Comouting Science, University of Glasgow, 2022
+* B.S. in Xidian University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022 - Present
+  * R&D, Raina Technology
+  * Duties includes: Logic Synthesis Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2022 - July 2022: Research Assistant
+  * School of Computing Science, University of Glasgow
+  * Duties included: Responsible for communication between VR device and ROS, which helps control UR3E robotic arm in virtual space and synchronize them in real time.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2020 - Nov 2020 : Research Assistant
+  * School of Cyber Engineering, Xidian University
+  * Duties included: Network traffic parser for potential malicious behaviour analysis.
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
