@@ -21,7 +21,7 @@ Work experience
 ======
 * Fall 2022 - Present
   * R&D, Raina Technology
-  * Duties includes: Logic Synthesis Engineer
+  * Duties include: Logic Synthesis Engineer
 
 * Feb 2022 - July 2022: Research Assistant
   * School of Computing Science, University of Glasgow
