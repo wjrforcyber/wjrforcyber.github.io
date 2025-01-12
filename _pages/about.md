@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-News :newspaper:
+News
 ======
 - I am maintaining a [repo](https://github.com/wjrforcyber/ABCPaperCheck) for illustrating the usage of logic synthesis and verification tool [ABC](https://github.com/berkeley-abc/abc).
 - I am drafting an [Entry Level Assignment](https://nbulsi.github.io/html/Assignment/A4LSO.pdf) for logic synthesis, if you have any suggestion, feel free to drop me an email.
 
-About :eyes:
+About
 ======
 Hi! Welcome to my page. I am currently working as a synthesis engineer in R&D department in Raina Technology, Hangzhou, Zhejiang, China.
 <br>I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org) when I was in School of Computing Science, University of Glasgow. I also spent 4 years in School of Cyber Engineering, Xidian University.
