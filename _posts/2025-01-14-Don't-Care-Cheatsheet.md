@@ -8,8 +8,8 @@ tags:
   - EDA
 ---
 
-Don't care concept summarized in a short cheatsheet, this could help comprehending different type of don't care under logic synthesis context.
+Don't care concept summarized in a short cheat sheet, this could help to comprehend different type of don't care under logic synthesis context.
 
 
-<br/>Check the cheatsheet [here](../../../files/DONTCARE.pdf).
+<br/>Check the cheat sheet [here](../../../files/DONTCARE.pdf).
 
