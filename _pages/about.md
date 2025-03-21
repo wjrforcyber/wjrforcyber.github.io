@@ -11,11 +11,12 @@ News
 ======
 - I will be supervised by Prof [Hongce Zhang](http://hongcezh.people.ust.hk) and co-supervised by Prof [Shiju Lin](https://shijulin.github.io) as a Phd student start in September, 2025. Looking forward to make new friends in Microelectronics Thrust, Function Hub of HKUST(GZ)!
 - I will join Prof [Hongce Zhang](http://hongcezh.people.ust.hk)'s group in May, 2025 as a Research Assistant.
+- <span style="color:red">*March 21, 2025*</span><br/>Today is my last day at *Raina Technology*!<br/>Thank you to everyone who has helped me grow into the person I am today over the past three years!
 - I am maintaining a [repo](https://github.com/wjrforcyber/ABCPaperCheck) for illustrating the usage of logic synthesis and verification tool [ABC](https://github.com/berkeley-abc/abc).
 
 About
 ======
-Hi! Welcome to my page. I am currently working as a synthesis engineer in R&D department in Raina Technology, Hangzhou, Zhejiang, China.
+Hi! Welcome to my page. I used to work as a synthesis engineer in R&D department in *Raina Technology*, Hangzhou, Zhejiang, China.
 <br>I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org) when I was in School of Computing Science, University of Glasgow. I also spent 4 years in School of Cyber Engineering, Xidian University.
 
 
