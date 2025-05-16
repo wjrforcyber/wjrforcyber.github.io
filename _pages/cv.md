@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* Fall 2022 - Present
+* May 6th, 2025 - Present: Research Assistant
+  * Microelectronics Thrust, Function Hub of HKUST(GZ)
+
+* Fall 2022 - March 21st, 2025
   * R&D, Raina Technology
   * Duties include: Logic Synthesis Engineer
 
