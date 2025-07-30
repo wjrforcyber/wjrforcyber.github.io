@@ -17,6 +17,14 @@ Hi! Welcome to my page. I am currently working as a Research Assistant at Prof [
 <br>I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org) when I was in School of Computing Science, University of Glasgow. I also spent 4 years in School of Cyber Engineering, Xidian University.
 
 
+My Calendar
+======
+I am available for scheduled meetings during open time slots indicated on my calendar. Please contact me via email to coordinate a mutually convenient time.
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FHong_Kong&showPrint=0&mode=WEEK&src=amluZ3JlbndhbmdjeWJlckBnbWFpbC5jb20&src=ZTlmZWNiMDNjZDBhOGJjZmJlNzA2NmNmOWE2N2Q2Y2M4NWFmNTM3ZjVmYzRmNWUzZDE2NmFlMmY1YjBhNjQwYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%237cb342&color=%230b8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
