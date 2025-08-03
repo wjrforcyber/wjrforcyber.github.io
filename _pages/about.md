@@ -16,6 +16,9 @@ About
 Hi! Welcome to my page. I am currently working as a Research Assistant at Prof [Hongce Zhang](http://hongcezh.people.ust.hk)'s lab. I used to work as a synthesis engineer in R&D department in *Raina Technology*, Hangzhou, Zhejiang, China.
 <br>I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org) when I was in School of Computing Science, University of Glasgow. I also spent 4 years in School of Cyber Engineering, Xidian University.
 
+<br>My current workstation is located at E1, 5th Floor, Microelectronics Thrust, Function Hub, HKUST(GZ).
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=113.46166849136353%2C22.88364803405261%2C113.4948205947876%2C22.89654661304645&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/22.890097/113.478245">View Larger Map</a></small>
+
 
 My Calendar
 ======
