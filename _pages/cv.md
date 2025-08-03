@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is till under maintenance, detailed version of CV could be viewed [here](../files/wjr_cv.pdf).
+<!--This page is till under maintenance, detailed version of CV could be viewed [here](../files/wjr_cv.pdf).-->
 
 Education
 ======
