@@ -30,10 +30,7 @@ Work experience
   * School of Computing Science, University of Glasgow
   * Duties included: Responsible for communication between VR device and ROS, which helps control UR3E robotic arm in virtual space and synchronize them in real time.
 
-* Jul 2020 - Nov 2020 : Research Assistant
-  * School of Cyber Engineering, Xidian University
-  * Duties included: Network traffic parser for potential malicious behaviour analysis.
-  
+
 <!--Skills
 ======
 * Skill 1
