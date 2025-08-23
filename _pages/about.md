@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-News
-======
-- I will be supervised by Prof [Hongce Zhang](http://hongcezh.people.ust.hk) and co-supervised by Prof [Shiju Lin](https://shijulin.github.io) as a Phd student start in September, 2025. Looking forward to make new friends in Microelectronics Thrust, Function Hub of HKUST(GZ)!
-
 About
 ======
-Hi! Welcome to my page. I am currently working as a Research Assistant at Prof [Hongce Zhang](http://hongcezh.people.ust.hk)'s lab. I used to work as a synthesis engineer in R&D department in *Raina Technology*, Hangzhou, Zhejiang, China.
-<br>I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org) when I was in School of Computing Science, University of Glasgow. I also spent 4 years in School of Cyber Engineering, Xidian University.
+
+I am a Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where I am jointly advised by Professor [Hongce Zhang](http://hongcezh.people.ust.hk) and Professor [Shiju Lin](https://shijulin.github.io). My research focuses on logic synthesis and also other topics in EDA area.
+
+Prior to my doctoral studies, I worked as a Synthesis Engineer in the R&D department at Raina Technology in Hangzhou, China. I hold a background in computing science from the University of Glasgow, where I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org), and in cyber engineering from Xidian University.
+
 
 <br>My current workstation is located at E1, 5th Floor, Microelectronics Thrust, Function Hub, HKUST(GZ).
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=113.46166849136353%2C22.88364803405261%2C113.4948205947876%2C22.89654661304645&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/22.890097/113.478245">View Larger Map</a></small>
