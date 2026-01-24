@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* May 6th, 2025 - Present: Research Assistant
+* Sep 1st, 2025 - Present: Phd student
+  * Microelectronics Thrust, Function Hub of HKUST(GZ)
+
+* May 6th, 2025 - Aug 30th, 2025: Research Assistant
   * Microelectronics Thrust, Function Hub of HKUST(GZ)
 
 * Fall 2022 - March 21st, 2025
