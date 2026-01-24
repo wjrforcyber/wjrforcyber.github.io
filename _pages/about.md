@@ -12,10 +12,18 @@ About
 
 I am a Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), where I am jointly advised by Professor [Hongce Zhang](http://hongcezh.people.ust.hk) and Professor [Shiju Lin](https://shijulin.github.io). My research focuses on logic synthesis and also other topics in EDA area.
 
-Prior to my doctoral studies, I worked as a Synthesis Engineer in the R&D department at Raina Technology in Hangzhou, China. I hold a background in computing science from the University of Glasgow, where I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org), and in cyber engineering from Xidian University.
+Prior to my doctoral studies, I worked as a Synthesis Engineer in the R&D department at Raina Technology in Hangzhou, China. I hold a background in Computing Science from the University of Glasgow, where I was supervised by Dr. [Vikraman Choudhury](https://vikraman.org), and in cyber engineering from Xidian University.
 
 
-<br>My current workstation is located at 118, W4, 5th Floor, Microelectronics Thrust, Function Hub, HKUST(GZ).
+Teaching 
+--------
+I am one of the Lab TAs for the course 
+<br>_UFUG 1601 - Introduction to Computer Science (2025-2026 Spring)_. 
+<br><span style="color:#F54927;">For students who have questions, feel free to drop me email at any time, but scheduled in-person meeting should be on Monday between 7:00 am to 8:00 am.</span> The calendar page on this site might not be up-to-date, every in-person meeting should be verified by email in advance.
+
+Address
+--------
+My current workstation is located at 118, W4, 5th Floor, Microelectronics Thrust, Function Hub, HKUST(GZ).
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=113.46166849136353%2C22.88364803405261%2C113.4948205947876%2C22.89654661304645&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/22.890097/113.478245">View Larger Map</a></small>
 
 
