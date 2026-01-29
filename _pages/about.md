@@ -19,7 +19,7 @@ Teaching
 --------
 I am one of the Lab TAs for the course 
 <br>_UFUG 1601 - Introduction to Computer Science (2025-2026 Spring)_. 
-<br><span style="color:#F54927;">For students who have questions, feel free to drop me email at any time, but scheduled in-person meeting should be on Monday between 7:00 am to 8:00 am.</span> The calendar page on this site might not be up-to-date, every in-person meeting should be verified by email in advance.
+<br><span style="color:#F54927;">For students who have questions, feel free to drop me email at any time, but scheduled in-person meeting should be on Monday between 7:00 pm to 8:00 pm.</span> The calendar page on this site might not be up-to-date, every in-person meeting should be verified by email in advance.
 
 Address
 --------
