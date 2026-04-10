@@ -1,0 +1,102 @@
+@import "colours";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Math&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/cmu-serif.min.css');
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+}
+
+html {
+    background-color: $background;
+    background-image: url("../equations.svg");
+    background-repeat: repeat;
+    background-size: 600px;
+}
+
+body {
+    color: $foreground;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1.6;
+    font-size: 15px;
+    max-width: 61.8%;
+    width: 90%;
+    margin: auto;
+}
+
+pre {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: $selection;
+}
+
+code {
+    font-weight: 600;
+    color: $yellow;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0.8em 0.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 30pt;
+    margin-bottom: 6pt;
+    text-align: center;
+    width: 100%;
+}
+
+h3 {
+    color: $purple;
+}
+
+h2 {
+    color: $green;
+    font-family: 'Jersey 10', cursive;
+}
+
+h1 {
+    margin-top: 15pt !important;
+    color: #E6C079;
+    font-size-adjust: 0.45;
+}
+
+.cn-name {
+    font-family: 'Ma Shan Zheng', cursive;
+    color: #E6C079;
+}
+
+ul {
+    padding-right: 40px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: $cyan;
+}
+
+.footer-section {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 2em;
+}
+
+.footer-line {
+    width: 60%;
+    height: 1px;
+    background-color: $comment;
+    margin: 0 auto 15px auto;
+}
+
+.footer-credit {
+    color: $comment;
+    font-size: 12px;
+}

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <style>
+    text { fill: rgba(189, 147, 249, 0.25); font-family: 'Computer Modern Serif', 'CMU Serif', serif; }
+    .xxl { font-size: 64px; font-style: italic; }
+    .xl  { font-size: 48px; }
+    .lg  { font-size: 38px; }
+    .md  { font-size: 30px; }
+    .sm  { font-size: 24px; }
+  </style>
+
+  <!-- Consensus / absorption theorems -->
+  <text class="xxl" x="80"   y="90">ab + a'c + bc = ab + a'c</text>
+
+  <text class="md"  x="900"  y="260">a(a+b) = a</text>
+
+  <!-- De Morgan's -->
+  <text class="xxl" x="420"  y="410">(ab)' = a' + b'</text>
+
+  <!-- Distributive -->
+  <text class="xl"  x="60"   y="590">a + bc = (a+b)(a+c)</text>
+
+  <text class="sm"  x="1100" y="530">a'' = a</text>
+
+  <!-- Shannon expansion -->
+  <text class="xl"  x="200"  y="760">f = a·fₐ + a'·fₐ'</text>
+
+  <text class="md"  x="850"  y="830">aa' = 0</text>
+
+  <text class="sm"  x="1150" y="710">a ⊕ 1 = a'</text>
+
+  <!-- ESOP / Reed-Muller -->
+  <text class="xl"  x="500"  y="980">f = c₀ ⊕ c₁x ⊕ c₂y ⊕ c₃xy</text>
+
+  <text class="md"  x="100"  y="1100">(a⊕b)' = a⊙b</text>
+
+  <!-- Boolean difference -->
+  <text class="xxl" x="350"  y="1280">∂f/∂x = fₓ ⊕ fₓ'</text>
+
+  <text class="lg"  x="1050" y="1200">a + a' = 1</text>
+
+  <!-- BDD / cofactor -->
+  <text class="md"  x="130"  y="1440">f = ITE(x, f₁, f₀)</text>
+
+  <text class="xl"  x="700"  y="1520">f = ∏ M(0,2,4,6)</text>
+
+  <!-- Cofactor expansion -->
+  <text class="sm"  x="60"   y="1600">fₐ = f|ₐ₌₁</text>
+
+  <text class="lg"  x="500"  y="1680">a ⊙ b = ab + a'b'</text>
+
+  <text class="md"  x="1050" y="1650">a1 = a</text>
+
+  <!-- Unate functions -->
+  <text class="sm"  x="300"  y="1780">f is positive unate in x</text>
+
+  <text class="lg"  x="800"  y="1780">a ⊕ 0 = a</text>
+
+  <!-- Threshold logic -->
+  <text class="md"  x="1100" y="1420">T(x₁..xₙ) = Σwᵢxᵢ ≥ t</text>
+
+  <text class="sm"  x="950"  y="950">∂²f/∂x∂y = 0</text>
+
+  <!-- Symmetric functions -->
+  <text class="xl"  x="50"   y="1900">Sₖ(x₁..xₙ) = Σ|xᵢ|=k</text>
+
+  <text class="md"  x="800"  y="1960">f(x) = xⁿ ⊕ xⁿ⁻¹</text>
+
+  <!-- SOP / POS duality -->
+  <text class="lg"  x="250"  y="2050">(fᵈ)' = (f')ᵈ</text>
+
+  <!-- Ashenhurst decomposition -->
+  <text class="md"  x="900"  y="2100">F = H(X, G(Y))</text>
+
+  <text class="sm"  x="100"  y="2170">f(x) = Σcᵢ·πᵢ(x)</text>
+
+  <!-- Roth's algebra -->
+  <text class="lg"  x="600"  y="2240">D = a·D' + a'·D''</text>
+
+  <!-- Don't care & satisfiability -->
+  <text class="md"  x="1100" y="2300">ODC ∩ SDC ∪ CDC</text>
+
+  <text class="xl"  x="300"  y="2400">∃x: f(x)=1 ⇔ f≠0</text>
+
+  <!-- Complete sum / Blake canonical -->
+  <text class="sm"  x="1000" y="2480">CS(f) = Σ all prime implicants</text>
+
+  <!-- Boolean satisfiability -->
+  <text class="lg"  x="60"   y="2580">SAT(f) → CNF(f) is satisfiable</text>
+
+  <!-- FPGA / LUT mapping -->
+  <text class="md"  x="800"  y="2650">K-LUT: f: {0,1}ᴷ → {0,1}</text>
+
+  <!-- MUX representation -->
+  <text class="xl"  x="200"  y="2750">f = x·g + x'·h</text>
+
+  <!-- Universal / functional completeness -->
+  <text class="lg"  x="700"  y="2850">{NAND} is functionally complete</text>
+
+  <text class="md"  x="100"  y="2940">f = ⋁ᵢ(⋀ⱼ lᵢⱼ), lᵢⱼ ∈ {xⱼ, xⱼ'}</text>
+</svg>
