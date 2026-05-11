@@ -50,13 +50,21 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
   [)]
 }
 
-#let talks = projects.values().map(v => {
+#let all-talks = projects.values().map(v => {
   let t = v.at("talk", default: ());
   if type(t) != array { t = (t,) }
   t.map(x => (name: v.title, ..x))
 }).flatten().sorted(key: x => x.date).rev()
 
-#for t in talks [
+#html.elem("h3")[Course Talks]
+
+#for t in all-talks.filter(x => x.at("category", default: "") == "course") [
+  - #t.date.display("[month repr:long] [year]"): #t.name, #t.where #render-links(t.links)
+]
+
+#html.elem("h3")[Thesis Talks]
+
+#for t in all-talks.filter(x => x.at("category", default: "") == "thesis") [
   - #t.date.display("[month repr:long] [year]"): #t.name, #t.where #render-links(t.links)
 ]
 
