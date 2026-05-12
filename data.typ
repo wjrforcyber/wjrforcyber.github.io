@@ -55,22 +55,43 @@
       )
     )
   ),
-  dontcare: (
-    title: "Don't Care Cheatsheet",
+  bounded-dll: (
+    title: "Bounded Dynamic Level Maintenance for Efficient Logic Optimization",
+    coauthor: (
+      "Junfeng Liu",
+      "Qinghua Zhao",
+      "Liwei Ni",
+      "Jingren Wang",
+      "Biwei Xie",
+      "Xingquan Li",
+      "Bei Yu",
+      "Shuai Ma",
+    ),
     paper: (
-      preprint: (
+      journal: (
+        published: "IEEE Transactions on Computers",
+        year: "2026",
         links: (
-          pdf: "pub/dontcare.pdf",
+          doi: "https://ieeexplore.ieee.org/abstract/document/11499441/",
+          arxiv: "https://arxiv.org/abs/2512.12554",
         )
       )
     ),
   ),
-  permutation: (
-    title: "Simple Illustration of Permutation Technique",
+  inv-redist: (
+    title: "Inverter Redistribution through Self-Dual and Self-Anti-Dual Function Transformation",
+    coauthor: (
+      "Jingren Wang",
+      "Guangyu Hu",
+      "Shiju Lin",
+      "Hongce Zhang",
+    ),
     paper: (
-      preprint: (
+      conference: (
+        published: "International Workshop on Logic & Synthesis (IWLS)",
+        year: "2026",
         links: (
-          pdf: "pub/permutation.pdf",
+          arxiv: "https://arxiv.org/abs/2605.08743",
         )
       )
     ),

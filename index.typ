@@ -68,6 +68,46 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
   - #t.date.display("[month repr:long] [year]"): #t.name, #t.where #render-links(t.links)
 ]
 
+= Publications
+
+#let pubs = projects.pairs().filter(v => v.at(1).at("paper", default: (:)).len() != 0).sorted(key: v => {
+  let p = v.at(1).at("paper")
+  let y = p.at("conference", default: p.at("journal", default: p.at("preprint", default: (:)))).at("year", default: "0")
+  int(y)
+}).rev()
+
+#for (idx, (key, data)) in pubs.enumerate() {
+  let name = data.at("title")
+  let paper = data.at("paper", default: (:))
+  let coauthors = data.at("coauthor", default: ()).map(a => {
+    if a == "Jingren Wang" { [*#a*] } else { a }
+  })
+  if paper.len() != 0 [
+    #html.elem("div")[#html.elem("span", attrs: (style: "margin-right:8px;color:#6272A4;"))[#{idx + 1}.] #name #render-coauthors(coauthors)
+    #if "preprint" in paper {
+        [ ]
+        render-links(paper.preprint.links)
+      }
+      #if "journal" in paper {
+        [, ]
+        paper.journal.published
+        [ ]
+        paper.journal.year
+        [ ]
+        render-links(paper.journal.links)
+      }
+      #if "conference" in paper {
+        [, ]
+        paper.conference.published
+        [ ]
+        paper.conference.year
+        [ ]
+        render-links(paper.conference.links)
+      }
+    ]
+  ]
+}
+
 = Teaching
 
 - Lab TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
