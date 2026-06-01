@@ -92,6 +92,7 @@
         year: "2026",
         links: (
           arxiv: "https://arxiv.org/abs/2605.08743",
+          slides: "talks/IWLS26.pdf"
         )
       )
     ),
