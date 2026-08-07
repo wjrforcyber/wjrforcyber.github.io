@@ -110,6 +110,7 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
 
 = Teaching
 
+- TA for "MICS 6001X - Symbolic and Neurosymbolic Reasoning" (2026-2027 Fall), HKUST(GZ)
 - Lab TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
 
 = Posts
