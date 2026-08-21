@@ -113,6 +113,10 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
 - TA for "MICS 6001X - Symbolic and Neurosymbolic Reasoning" (2026-2027 Fall), HKUST(GZ)
 - Lab TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
 
+= Other Activities
+
+- Second Place in #link("https://sites.google.com/view/ceda-hk/edathon-2026")[IEEE CEDA EDAthon 2026]
+
 = Posts
 
 #let posts = (
