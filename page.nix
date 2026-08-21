@@ -1,11 +1,11 @@
-{ stdenv, lib, typst, sass, source-sans, font-awesome }:
+{ stdenv, lib, typst, dart-sass, source-sans, font-awesome }: 
 
 stdenv.mkDerivation {
   name = "page";
 
   src = ./.;
 
-  buildInputs = [ (typst.withPackages (p: [p.modern-cv_0_9_0])) sass ];
+  buildInputs = [ (typst.withPackages (p: [p.modern-cv_0_9_0])) dart-sass ];
 
   TYPST_FONT_PATHS = lib.concatStringsSep ":" [
     source-sans
@@ -17,7 +17,7 @@ stdenv.mkDerivation {
   buildPhase = ''
     typst compile cv.typ
     typst compile --format html index.typ
-    sass css/*.scss --update
+    sass css/style.scss css/style.css --no-source-map
   '';
 
   installPhase = ''
