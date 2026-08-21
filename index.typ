@@ -9,7 +9,7 @@
 
 I am a Ph.D. student in Microelectronics at the Hong Kong University of Science and Technology (Guangzhou), jointly advised by Professor #link("http://hongcezh.people.ust.hk")[Hongce Zhang] and Professor #link("https://shijulin.github.io")[Shiju Lin]. My research focuses on logic synthesis and other topics in EDA.
 
-Prior to my doctoral studies, I worked as a Synthesis Engineer in the R&D department at Raina Technology in Hangzhou, China. I hold a background in Computing Science from the University of Glasgow, where I was supervised by Dr. #link("https://vikraman.org")[Vikraman Choudhury], and in cyber engineering from Xidian University.
+Prior to my doctoral studies, I worked as a Synthesis Engineer in the R&D department at Raina Technology in Hangzhou, China. I hold a Master's degree in Computing Science from the University of Glasgow, where I was supervised by Dr. #link("https://vikraman.org")[Vikraman Choudhury], and a Bachelor's degree in Cyber Engineering from Xidian University.
 
 = Contact
 
