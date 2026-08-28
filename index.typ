@@ -110,7 +110,8 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
 
 = Teaching
 
-- Lab TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
+- TA for "UFUG 2103 - Linear Algebra" (2026-2027 Fall), HKUST(GZ)
+- TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
 
 = Other Activities
 
