@@ -123,7 +123,7 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
   (
     title: [Reverse-Engineering an ASIC: From Binary GDS to `(* TWO STARS *)`],
     link: "posts/asic-puzzle.html",
-    date: datetime(day: 13, month: 8, year: 2026)
+    date: datetime(day: 2, month: 9, year: 2026)
   ),
   (
     title: [Don't Care Cheatsheet for Easy Comprehension],
