@@ -121,6 +121,11 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
 
 #let posts = (
   (
+    title: [Reverse-Engineering an ASIC: From Binary GDS to `(* TWO STARS *)`],
+    link: "posts/asic-puzzle.html",
+    date: datetime(day: 13, month: 8, year: 2026)
+  ),
+  (
     title: [Don't Care Cheatsheet for Easy Comprehension],
     link: "pub/dontcare.pdf",
     date: datetime(day: 14, month: 1, year: 2025)

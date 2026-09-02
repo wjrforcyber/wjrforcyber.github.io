@@ -18,10 +18,12 @@ stdenv.mkDerivation {
     typst compile cv.typ
     typst compile --format html index.typ
     sass css/style.scss css/style.css --no-source-map
+    typst compile --format html posts/asic-puzzle.typ
+    sass css/*.scss --update
   '';
 
   installPhase = ''
-    mkdir -p $out
+    mkdir -p $out/posts/asic-puzzle
     cp index.html $out
     cp cv.pdf $out
     cp css $out -r
@@ -30,5 +32,7 @@ stdenv.mkDerivation {
     cp profile.jpg $out
     cp profileStyle.jpg $out
     cp equations.svg $out
+    cp posts/asic-puzzle.html $out/posts/
+    cp posts/asic-puzzle/* $out/posts/asic-puzzle/
   '';
 }
