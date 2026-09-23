@@ -97,4 +97,22 @@
       )
     ),
   ),
+  inv-redist-aspdac: (
+    title: "Inverter Redistribution through Self-Dual and Self-Anti-Dual Function Transformation",
+    coauthor: (
+      "Jingren Wang",
+      "Guangyu Hu",
+      "Chen Chen",
+      "Heinz Riener",
+      "Shiju Lin",
+      "Hongce Zhang",
+    ),
+    paper: (
+      conference: (
+        published: "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+        year: "2027",
+        links: (:)
+      )
+    ),
+  ),
 )
