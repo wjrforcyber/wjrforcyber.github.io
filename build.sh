@@ -21,6 +21,7 @@ cp cv.pdf _serve/
 cp -r css _serve/
 cp -r pub _serve/
 cp -r talks _serve/
+cp -r files _serve/
 cp -r posts/asic-puzzle _serve/posts/
 cp profileStyle.jpg _serve/
 cp equations.svg _serve/

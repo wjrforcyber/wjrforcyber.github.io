@@ -29,6 +29,7 @@ stdenv.mkDerivation {
     cp css $out -r
     cp pub $out -r
     cp talks $out -r
+    cp files $out -r
     cp profile.jpg $out
     cp profileStyle.jpg $out
     cp equations.svg $out
