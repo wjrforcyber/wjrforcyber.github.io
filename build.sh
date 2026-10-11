@@ -15,6 +15,11 @@ mkdir -p _serve/posts
 typst compile --features html --format html posts/asic-puzzle.typ
 cp posts/asic-puzzle.html _serve/posts/
 
+echo "Compiling course material pages..."
+mkdir -p _serve/materials
+typst compile --features html --format html materials/ufug2103.typ
+cp materials/ufug2103.html _serve/materials/
+
 mkdir -p _serve
 cp index.html _serve/
 cp cv.pdf _serve/
