@@ -111,7 +111,8 @@ I am interested in logic synthesis, Boolean algebra, and electronic design autom
 = Teaching
 
 - TA for "UFUG 2103 - Linear Algebra" (2026-2027 Fall), HKUST(GZ) \
-  #html.elem("a", attrs: (href: "files/a1_concepts_beamer.pdf", target: "_blank"))[Assignment 1: Key Concepts and Problem Map]
+  #html.elem("a", attrs: (href: "files/a1_concepts_beamer.pdf", target: "_blank"))[Assignment 1: Key Concepts and Problem Map] \
+  #html.elem("a", attrs: (href: "files/ch3_determinants_beamer.pdf", target: "_blank"))[Determinants in One Example]
 - TA for "UFUG 1601 - Introduction to Computer Science" (2025-2026 Spring), HKUST(GZ)
 
 = Other Activities
