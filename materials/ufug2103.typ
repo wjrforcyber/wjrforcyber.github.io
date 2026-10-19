@@ -18,4 +18,8 @@
     #html.elem("a", attrs: (href: "../files/ch3_determinants_beamer.pdf", target: "_blank"))[Determinants in One Example]
     #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Chapter 3 review & tutorial — sections 3.1 & 3.2 through a single 3 × 3 matrix]
   ]
+  #html.elem("li")[
+    #html.elem("a", attrs: (href: "../files/midterm_review_beamer.pdf", target: "_blank"))[Midterm Review: Chapters 1–3]
+    #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Every theorem through one matrix (and its twin) — full calculations]
+  ]
 ]
