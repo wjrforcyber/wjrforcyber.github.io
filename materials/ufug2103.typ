@@ -22,4 +22,8 @@
     #html.elem("a", attrs: (href: "../files/midterm_review_beamer.pdf", target: "_blank"))[Midterm Review: Chapters 1–3]
     #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Every theorem through one matrix (and its twin) — full calculations]
   ]
+  #html.elem("li")[
+    #html.elem("a", attrs: (href: "../files/a2_concepts_beamer.pdf", target: "_blank"))[Assignment 2: Key Concepts and Problem Map]
+    #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Chapter 2 — matrix algebra, inverses, rank, LU]
+  ]
 ]
