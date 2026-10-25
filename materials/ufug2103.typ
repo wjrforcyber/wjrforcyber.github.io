@@ -26,4 +26,8 @@
     #html.elem("a", attrs: (href: "../files/a2_concepts_beamer.pdf", target: "_blank"))[Assignment 2: Key Concepts and Problem Map]
     #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Chapter 2 — matrix algebra, inverses, rank, LU]
   ]
+  #html.elem("li")[
+    #html.elem("a", attrs: (href: "../files/a3_concepts_beamer.pdf", target: "_blank"))[Assignment 3: Key Concepts and Problem Map]
+    #html.elem("div", attrs: (style: "color:#6272A4;font-size:14px;"))[Chapter 3 — determinants]
+  ]
 ]
